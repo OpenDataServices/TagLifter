@@ -1,6 +1,6 @@
 # TagLifter
 
-Tag Lifter takes a spreadsheet of data, marked up with #tag headings for columns, and converts this to a Linked Data graph based on an ontology.
+Tag Lifter takes a spreadsheet of data, marked up with #tag headings for columns, and converts this to a Linked Data graph based on an [OWL ontology](https://en.wikipedia.org/wiki/Web_Ontology_Language).
 
 Tags may take the following forms:
 
